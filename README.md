@@ -6,7 +6,7 @@ SaboTeam
 
 # Takım Logosu
 
-![Logo]((ReadmeImg/logo.jpeg))
+![Logo](ReadmeImg/logo.png)
 
 
 # Takım Üyeleri
@@ -22,7 +22,7 @@ SaboTeam
 MoodMaze
 # Oyun Logosu
 
-![Oyun Logo]((ReadmeImg/oyunlogo.jpeg))
+![Oyun Logo](ReadmeImg/oyunlogo.png)
 
 # Oyun Açıklaması
 
