@@ -1,7 +1,7 @@
 
 # Takım İsmi
 
-SaboTeam
+ArapAtı
 
 
 # Takım Logosu
@@ -19,20 +19,20 @@ SaboTeam
 | Yaren Doğan        | Scrum Master     | 
 
 # Takım İsmi 
-MoodMaze
+SABOTEAM
 # Oyun Logosu
 
 ![Oyun Logo](ReadmeImg/oyunlogo.png)
 
 # Oyun Açıklaması
 
-MoodMaze, oyuncuların seçtikleri ruh halleriyle şekillenen dinamik haritalarda yarıştığı, gizem ve stratejiyi harmanlayan çok oyunculu bir 3D parti oyunudur.
+SaboTeam, oyuncuların seçtikleri ruh halleriyle şekillenen dinamik haritalarda yarıştığı, gizem ve stratejiyi harmanlayan çok oyunculu bir 3D parti oyunudur.
 
 Her oyun başında bir oyuncu gizli hain olarak seçilir ve seçtiği ruh haline uygun özel bir harita, tema ve görev seti belirlenir. Hain, sabotaj puanları toplayarak “tanrı moduna” geçebilir; bu modda haritaya tepeden bakar, diğer oyuncuları görebilir ve seçtiği ruh haline özgü sabotaj yeteneklerini kullanarak kaos yaratır. Sabotaj bitince yeniden normal oyuncu gibi devam eder, tanrı modundayken ise karakteri bir yapay zeka tarafından kontrol edilerek hainin kimliği gizli tutulur.
 
 Oyuncuların amacı, hainin kurduğu tuzaklara ve engellere rağmen haritayı tamamlamak ve tur sonunda hainin kim olduğunu doğru tahmin etmektir. Her tur bitiminde hem oynanış başarısı hem de doğru tahminlerden puan kazanılır; birkaç turun ardından genel sıralama açıklanır.
 
-MoodMaze, her seferinde değişen atmosferi, mood tabanlı harita ve sabotajları, gizli hain mekaniği ve dinamik oyun yapısıyla gerilimi, eğlenceyi ve stratejiyi bir arada sunar.
+SaboTeam, her seferinde değişen atmosferi, mood tabanlı harita ve sabotajları, gizli hain mekaniği ve dinamik oyun yapısıyla gerilimi, eğlenceyi ve stratejiyi bir arada sunar.
 # Oyun Hikayesi
 Bir zamanlar insanların bastırdığı duygularını ortaya çıkarmak için geliştirilen bir deney vardı.
 Bu deney, insanların bilinçaltındaki ruh hâllerini dijital dünyaya yansıtan, yaşayan bir labirent yaratmayı amaçlıyordu.
@@ -41,7 +41,7 @@ Ancak labirent beklenenden çok daha fazlasına dönüştü. Seçilen her ruh h�
 
 Derken bir kırılma noktası oldu: Labirentin derin kodlarına, bir “hain” rolü eklendi. Artık her turda içlerinden biri, diğerlerinin ilerleyişini sabote etmekle görevlendiriliyordu. Bu hain, tanrı gibi haritayı görebiliyor; ruh hâlinin getirdiği güçle tuzaklar kurabiliyor; ama kimliği gizli kalıyordu.
 
-Bu noktadan sonra MoodMaze, bir oyundan çok daha fazlasına dönüştü:
+Bu noktadan sonra SaboTeam, bir oyundan çok daha fazlasına dönüştü:
 Bir güven testi, bir psikolojik deney ve en çok da insanın kendi içindeki karanlıkla yüzleşme serüveni hâline geldi.
 
 Ve hâlâ her yeni oyunda aynı soru yankılanıyor:
@@ -69,12 +69,63 @@ Asıl düşman kim? Labirent mi, yoksa içimizdeki hain mi?
 
 **Topluluk ve Influencer İşbirlikleri:** Discord sunucusu kurularak oyuncuların bir araya gelip stratejiler paylaşabileceği, hain kimliğini tartışabileceği aktif bir ortam oluşturulacak. Aynı zamanda, oyun içeriği üreten YouTuber ve Twitch yayıncılarıyla işbirlikleri yaparak, oyun deneyimini geniş kitlelere ulaştıracağız.
 
-**Düzenli İçerik Güncellemeleri:** MoodMaze’e yeni ruh halleri, haritalar ve sabotaj yetenekleri ekleyerek oyuncuların ilgisini uzun vadede canlı tutacağız. Geri bildirimlerle şekillenen güncellemeler, oyuncu bağlılığını artıracak.
+**Düzenli İçerik Güncellemeleri:** SaboTeam'e yeni ruh halleri, haritalar ve sabotaj yetenekleri ekleyerek oyuncuların ilgisini uzun vadede canlı tutacağız. Geri bildirimlerle şekillenen güncellemeler, oyuncu bağlılığını artıracak.
 
 **Erişilebilir Fiyatlandırma:** Oyunu 5-7 dolar aralığında konumlandırarak, indie oyun severlerin kolayca erişebileceği bir fiyat stratejisi izleyeceğiz. Oyun demosu veya erken erişim seçenekleri ile oyunculara deneyimleme fırsatı da sunabiliriz.
 
-**Marka Sadakati İçin Merchandise:** MoodMaze temasına uygun tişört, kupa ve poster gibi ürünler, topluluğumuzun aidiyet duygusunu güçlendirecek. Özel koleksiyonlar ve sınırlı sayıda çıkan ürünlerle heyecan yaratacağız.
+**Marka Sadakati İçin Merchandise:** SaboTeam temasına uygun tişört, kupa ve poster gibi ürünler, topluluğumuzun aidiyet duygusunu güçlendirecek. Özel koleksiyonlar ve sınırlı sayıda çıkan ürünlerle heyecan yaratacağız.
 
 **Sosyal Medya ve Etkinlikler:** Instagram, Twitter gibi platformlarda oyun atmosferini yansıtan görsel paylaşımlar, mini hikayeler ve oyuncu başarıları öne çıkarılacak. Ayrıca çevrimiçi turnuvalar ve yarışmalarla oyuncu etkileşimi artırılacak.
 
-# Product Backlog
+# Product Backlog URL
+[Project Link](https://github.com/users/YarenBahce/projects/6/views/1)
+
+
+---
+# 🚀 Sprint 1
+
+## 📝 Sprint Notları
+Bu sprint, Saboteam projesinin temelini oluşturacak araştırma ve teknik hazırlık süreci olarak planlandı.  
+Ana odak noktaları:
+- Oyun fikrinin netleştirilmesi
+- Ruh halleri, sabotaj mekanikleri ve harita temalarının belirlenmesi
+- Teknoloji altyapısı ve görsel stil araştırması
+
+Toplam 70 puanlık backlog’un ilk kısmı; araştırma ve tasarım odaklı görevler bu sprinte dağıtıldı.
+
+
+## 🗂 Backlog Düzeni ve Story Seçimleri
+Sprint 1’de ağırlıklı olarak:
+- Oyun tasarımı ve temel dokümantasyon
+- Ruh hali bazlı harita & tema taslakları
+- Sabotaj sistemi ve tanrı modu akış diyagramı
+- AI bot davranış modeli tasarımı
+- Low-poly görsel stil ve moodboard hazırlanması
+- Ses ve atmosfer örnekleri araştırması
+
+## 📅 Daily Scrum / Toplantılar
+- Daily toplantılar Whatsapp üzerinden yapıldı.
+[📄 Sprint 1 Daily Notes](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)
+
+
+## 📌 Sprint Board Görünümü
+![Sprint Board](ReadmeImg/Sprint1.png)
+
+
+## ✅ Sprint Review
+- İlk sprintte oyun fikri ve tasarım detayları netleştirildi.
+- Hain tanrı modu, ruh hali seçimine göre değişen haritalar ve AI bot kontrolü gibi mekanikler üzerine karar alındı.
+- Low-poly, renkli ve esprili bir görsel stil benimsendi.
+
+
+## 🔄 Sprint Retrospective
+- Daha fazla prototip ve doküman hazırlamanın önemli olduğu görüldü.
+- Haftada 3 düzenli toplantı yapılmasına karar verildi.
+- Gelecek sprintte hedefler:
+  - Basit bir oynanabilir prototip (hareket, sabotaj testi)
+  - Temel UI taslakları
+  - Sabotaj yeteneklerinden en az birinin prototipi
+
+## ✏️ Özet
+Sprint 1, Saboteam’in temellerini atmak için **araştırma**, **dokümantasyon** ve **tasarım hazırlıkları**yla geçti.  
+Bir sonraki sprintte ilk prototip hedefleniyor. 🎮
