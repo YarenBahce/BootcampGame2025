@@ -17,6 +17,7 @@ ArapAtı
 | Fatih Emre Keloğlu | Product Owner    | 
 | Cesim Uygun        | Developer        | 
 | Yaren Doğan        | Scrum Master     | 
+| Büşra Asan         | Developer        | 
 
 # Takım İsmi 
 SABOTEAM
