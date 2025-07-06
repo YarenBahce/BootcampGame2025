@@ -81,9 +81,11 @@ Asıl düşman kim? Labirent mi, yoksa içimizdeki hain mi?
 # Product Backlog URL
 [Project Link](https://github.com/users/YarenBahce/projects/6/views/1)
 
+---
+
 - Projenin Toplam Puanı: 210
 - Her Sprinte Ayrılan Puan: 70
-- 1. Sprint Tamamlama Oranı: 63/70
+- Sprint 1 Tamamlama Oranı: 63/70
 
 ---
 # 🚀 Sprint 1
