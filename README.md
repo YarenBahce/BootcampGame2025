@@ -162,7 +162,7 @@ Sprint 2’de öne çıkan görevler:
 [📄 Sprint 2 Ekran Ve Toplantı Görüntüleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
 
 ## 📌 Sprint Board Görünümü  
-![Sprint Board](Sprint2.png)  
+![Sprint Board](ReadmeImg/Sprint2.png)  
 
 ## ✅ Sprint Review  
 - 4 kişilik Multiplayer altyapı başarı ile tamamlandı. 
