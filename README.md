@@ -135,3 +135,52 @@ Sprint 1’de ağırlıklı olarak:
 ## ✏️ Özet
 Sprint 1, Saboteam’in temellerini atmak için **araştırma**, **dokümantasyon** ve **tasarım hazırlıkları**yla geçti.  
 Bir sonraki sprintte ilk prototip hedefleniyor. 🎮
+
+---
+# 🚀 Sprint 2
+
+## 📝 Sprint Notları
+Bu sprint, Saboteam projesinin temel mekaniklerinin uygulanması ve prototip aşamasına geçişi kapsıyor.  
+Ana odak noktaları:
+- Multiplayer oyuncu altyapısı oluşturulması
+- UI ekranları'nın oluşturulması
+- Tur sisteminin oluşturulması
+- En az 1 haritanın oluşturulması
+- Haritaların belirlenmesi
+
+## 🗂 Backlog Düzeni ve Story Seçimleri
+Sprint 2’de öne çıkan görevler:
+  - Multiplayer oyun altyapısı (4 oyunculu)
+  - Oyun UI ekranlarının belirlenmesi
+  - Asset kütüphanesi genişletme (karakter ve harita için) 
+  - Harita tema uygulaması (1 ruh hali)  
+  - AI bot üzerine çalışmalar
+  - Tur yönetim sistemi (4 tur oyun döngüsü)  
+
+## 📅 Daily Scrum / Toplantılar
+- Daily toplantılar Whatssapp ve Google Meets üzerinden yapıldı.  
+[📄 Sprint 2 Ekran Ve Toplantı Görüntüleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
+
+## 📌 Sprint Board Görünümü  
+![Sprint Board](Sprint2.png)  
+
+## ✅ Sprint Review  
+- 4 kişilik Multiplayer altyapı başarı ile tamamlandı. 
+- Oyun UI ekranları oluşturuldu.
+- AI bot davranışları için temel paternler araştırıldı.
+- Asset kütüphanesi genişletildi.  
+
+## 🔄 Sprint Retrospective  
+- **İyi Yönler**:  
+  - Prototiplerin hızlı teslimi ve fizik mekaniklerinin sorunsuz çalışması.  
+  - Network testlerinin erken aşamada yapılması.  
+- **Geliştirilecek Alanlar**:  
+  - Kod review süreçlerinin daha sıkı takip edilmesi.  tahmini aşıldı).  
+
+## ✏️ Özet  
+Sprint 2, **prototipleme** ve **temel mekaniklerin uygulanması** ile geçti. Bir sonraki sprintte:  
+- Karakter mekanikleri üzerine çalışılması
+- UI tasarımlarının entegrasyonu tamamlanması
+- AI botlar eklenmesi
+- Haritalar tamamlanması
+hedefleniyor. 
