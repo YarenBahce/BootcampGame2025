@@ -86,6 +86,7 @@ Asıl düşman kim? Labirent mi, yoksa içimizdeki hain mi?
 - Projenin Toplam Puanı: 210
 - Her Sprinte Ayrılan Puan: 70
 - Sprint 1 Tamamlama Oranı: 63/70
+- Sprint 2 Tamamlama Oranı: 44/65
 
 ---
 # 🚀 Sprint 1
