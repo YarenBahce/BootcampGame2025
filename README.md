@@ -200,7 +200,7 @@ Ancak planlanan ilerlemeler teknik ve koordinasyon sorunları nedeniyle gerçekl
 
 ## 📅 Daily Scrum / Toplantılar
 - Daily toplantılar Whatssapp ve Google Meets üzerinden yapıldı.  
-[📄 Sprint 2 Ekran Ve Toplantı Görüntüleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
+[📄 Sprint 3 Ekran Ve Toplantı Görüntüleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
 
 ## 📌 Sprint Board Görünümü
 ![Sprint Board](ReadmeImg/Sprint3.png)  
