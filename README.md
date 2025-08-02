@@ -184,4 +184,38 @@ Sprint 2, **prototipleme** ve **temel mekaniklerin uygulanması** ile geçti. Bi
 - UI tasarımlarının entegrasyonu tamamlanması
 - AI botlar eklenmesi
 - Haritalar tamamlanması
-hedefleniyor. 
+hedefleniyor.
+
+## Oyun İçi Görseller 
+[📄 Oyun görselleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
+
+--
+# 🚀 Sprint 3
+
+## 📝 Sprint Notları
+Bu sprintin temel hedefi, önceki sprintlerde geliştirilen bileşenleri birleştirerek ilk bütünsel prototipi oluşturmaktı. Ayrıca karakter kontrolleri, UI entegrasyonu ve AI bot sisteminin oyuna entegre edilmesi planlanmıştı.
+
+Ancak planlanan ilerlemeler teknik ve koordinasyon sorunları nedeniyle gerçekleşemedi. Özellikle proje birleştirme sürecinde yaşanan hatalar nedeniyle sprint içerisinde anlamlı bir ilerleme sağlanamadı.
+
+
+## 📅 Daily Scrum / Toplantılar
+- Daily toplantılar Whatssapp ve Google Meets üzerinden yapıldı.  
+[📄 Sprint 2 Ekran Ve Toplantı Görüntüleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
+
+## 📌 Sprint Board Görünümü
+![Sprint Board](ReadmeImg/Sprint3.png)  
+
+## ✅ Sprint Review
+- Bu sprintte teknik sorunlar ve zaman yönetimi eksiklikleri nedeniyle aktif bir ilerleme kaydedilemedi.  
+- Takım olarak projeyi birleştirme sürecine odaklanmamıza rağmen, çıkan hata ve uyumsuzluklar nedeniyle planlanan fonksiyonları test edemedik.
+
+## 🔄 Sprint Retrospective
+- Sorun yaşanan alanlar net olarak tanımlandı.  
+- Takım içi iletişim açık ve dürüst bir şekilde sürdürüldü.  
+- Kod entegrasyon sürecine sprint süresinden daha erken başlanmalı.  
+- Versiyonlama, merge ve test konularında daha sıkı bir iş takibi yapılmalı.  
+- Sprint planı gerçekçi hedeflerle güncellenmeli, beklenmeyen durumlara zaman ayrılmalı.
+
+## ✏️ Özet
+Sprint 3, hedeflenen çıktılar elde edilemese de proje sürecinde karşılaşılabilecek teknik risklerin ve takım koordinasyonu sorunlarının fark edilmesi açısından önemli bir öğrenim süreci oldu.  
+
