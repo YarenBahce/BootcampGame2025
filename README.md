@@ -189,7 +189,8 @@ hedefleniyor.
 ## Oyun İçi Görseller 
 [📄 Oyun görselleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
 
---
+---
+
 # 🚀 Sprint 3
 
 ## 📝 Sprint Notları
@@ -217,5 +218,8 @@ Ancak planlanan ilerlemeler teknik ve koordinasyon sorunları nedeniyle gerçekl
 - Sprint planı gerçekçi hedeflerle güncellenmeli, beklenmeyen durumlara zaman ayrılmalı.
 
 ## ✏️ Özet
-Sprint 3, hedeflenen çıktılar elde edilemese de proje sürecinde karşılaşılabilecek teknik risklerin ve takım koordinasyonu sorunlarının fark edilmesi açısından önemli bir öğrenim süreci oldu.  
+Sprint 3, hedeflenen çıktılar elde edilemese de proje sürecinde karşılaşılabilecek teknik risklerin ve takım koordinasyonu sorunlarının fark edilmesi açısından önemli bir öğrenim süreci oldu. 
+
+## Oyun İçi Görseller 
+[📄 Oyun görselleri](https://drive.google.com/drive/folders/1JUPX_urSHvUJ3oebjfuKyc9MK6hxLvOm?usp=sharing)  
 
